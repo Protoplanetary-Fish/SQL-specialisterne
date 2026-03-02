@@ -1,0 +1,1 @@
+select * from products where unitsinstock > 100 and unitprice >= 25

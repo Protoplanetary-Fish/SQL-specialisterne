@@ -1,0 +1,1 @@
+select * from customers where country = 'UK' or country = 'Spain';

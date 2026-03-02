@@ -1,0 +1,1 @@
+select * from orders where orderdate >= '19961001' and orderdate <= '19961031'
