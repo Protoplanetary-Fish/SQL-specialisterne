@@ -1,3 +1,3 @@
 select * from employees
-where birthdate > '19600101'
+where birthdate > '1960-01-01'
 and region is null
